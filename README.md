@@ -1,6 +1,6 @@
 # imgui-sdl-glad-template
 
-A template project using [ImGui](https://github.com/ocornut/imgui) with [SDL](https://www.libsdl.org) and [GLAD](https://glad.dav1d.de/).
+A template project using [ImGui](https://github.com/ocornut/imgui) (docking branch) with [SDL2](https://www.libsdl.org) and [GLAD](https://glad.dav1d.de/).
 
 Compiles using **CMake** + **CMake Tools** through **Visual Studio Code**. (`Ctrl+Shift+B` to build after running `CMake: Configure` for initial setup)
 
